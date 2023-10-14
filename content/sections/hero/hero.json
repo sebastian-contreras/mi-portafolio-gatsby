@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hola",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/perfil.jpeg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Soy Sebastian Contreras",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Estudiente de ",
+    "highlight": "Ingenieria en computacion",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }

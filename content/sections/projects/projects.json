@@ -2,43 +2,60 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "PROYECTO PROPIO",
+      "title": "Pets System",
+      "description": "Sistema de gestion de veterinaria, lleva el control de mascotas, clientes, veterinarios, citas e historia de cada mascota, cuenta con un sistema de identificacion por rol de administrador o veterinarios, para el administrador se le otorgo una serie de estadisticas economicas y de clientes de la veterinaria",
+      "tags": ["Sistema de gestion", "Ready-2-Deploy"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/PetsSystem.png",
         "alt": "Quick Setup",
-        "linkTo": "/my-first-article"
+        "linkTo": "/petsSystem"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://sistema-veterinaria-frontend.vercel.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "PROYECTO PROPIO",
+      "title": "Curriculum Creator",
+      "description": "Proyecto desarrollado como parte del trabajo integrador final del curso Argentina Programa es una plataforma web diseñada para ayudar a los usuarios a crear y gestionar sus perfiles profesionales de manera efectiva. La plataforma combina una serie de características esenciales para la construcción de un currículum vitae sólido y versátil",
+      "tags": ["Curriculum", "Easy-2-Use"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/curriculum.png",
+        "alt": "Extendable Layout",
+        "linkTo": "/curriculumCreator"
       },
       "links": [
         {
           "type": "external",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
+        
       ]
-    }
+    },
+    {
+      "visible": true,
+      "category": "PROYECTO PROPIO",
+      "title": "Counter Bugs IA Netlogo",
+      "description": "Inteligencia artificial para contabilizar y clasificar los tipos de insectos que encontramos en los sticky papers de las plantaciones citrícolas de Tucumán. Y de esta manera obtener información específica de las plagas más comunes en esa zona y tomar las medidas que se requieran.",
+      "tags": ["Inteligecia artificial", "Ready-2-Deploy", "Universidad"],
+      "image": {
+        "src": "../../images/counterbugs.png",
+        "alt": "Quick Setup",
+        "linkTo": "/Counter-bugs-ia"
+      },
+      "links": [
+      ]
+    }   
+
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/sebastian-contreras"
+    "label": "Mas proyectos",
+    "url": "/proyectos"
   }
 }

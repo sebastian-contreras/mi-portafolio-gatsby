@@ -17,7 +17,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="Sobre mi" />
         <InterestsSection sectionId="details" heading="Tecnologia y conocimientos" />
-        <ProjectsSection sectionId="features" heading="Proyectos" />
+        <ProjectsSection sectionId="proyectos" heading="Proyectos" />
         <ContactSection sectionId="github" heading="Contactame" />
       </Page>
     </>

@@ -19,13 +19,12 @@
     "navigation": {
       "header": [
         { "label": "Sobre mi", "url": "/#about" },
-        { "label": "Proyectos", "url": "/proyectos" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Proyectos", "url": "/#proyectos" },
         { "label": "Contacto", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Curriculum Vitae",
         "url": "/resume.pdf"
       },
       "footer": [

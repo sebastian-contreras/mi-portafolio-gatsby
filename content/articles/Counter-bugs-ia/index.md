@@ -2,6 +2,10 @@
 title: "Counter Bugs IA Netlogo"
 description: "Uso de la Inteligencia artificial para la detección de plagas"
 date: "2023-10-03"
+banner:
+    src: '../../images/counterbugs.png'
+    alt: 'Curriculum creator'
+    caption: ''
 categories:
   - "Propio"
 keywords:

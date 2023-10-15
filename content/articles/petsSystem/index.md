@@ -2,6 +2,10 @@
 title: "Pets System"
 description: "Sistema de gestion de veterinaria"
 date: "2023-03-03"
+banner:
+    src: '../../images/PetsSystem.png'
+    alt: 'Curriculum creator'
+    caption: ''
 categories:
   - "Propio"
 keywords:

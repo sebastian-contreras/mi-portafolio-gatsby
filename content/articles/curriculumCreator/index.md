@@ -2,6 +2,10 @@
 title: "Curriculum Creator"
 description: "Plataforma de Creación y Gestión de Perfiles Profesionales "
 date: "2023-03-03"
+banner:
+    src: '../../images/curriculum.png'
+    alt: 'Curriculum creator'
+    caption: ''
 categories:
   - "Propio"
 keywords:
@@ -55,7 +59,7 @@ keywords:
 **Nombre del Proyecto:** Plataforma de Creación y Gestión de Perfiles Profesionales
 
 **Descripción:**
-El proyecto que has desarrollado como parte del trabajo integrador final del curso Argentina Programa es una plataforma web diseñada para ayudar a los usuarios a crear y gestionar sus perfiles profesionales de manera efectiva. La plataforma combina una serie de características esenciales para la construcción de un currículum vitae sólido y versátil. A continuación, se detallan las principales características de tu proyecto:
+El proyecto desarrollado como parte del trabajo integrador final del curso Argentina Programa es una plataforma web diseñada para ayudar a los usuarios a crear y gestionar sus perfiles profesionales de manera efectiva. La plataforma combina una serie de características esenciales para la construcción de un currículum vitae sólido y versátil. A continuación, se detallan las principales características de tu proyecto:
 
 **Características del Proyecto:**
 

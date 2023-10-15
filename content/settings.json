@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "es",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://sebastiancontreras.vercel.app/",
     "title": "Portafolio de desarrollador de Sebastian Contreras",
     "titleTemplate": "%s · Sebastian Contreras",
     "description": "Portafolio de desarrollador de Sebastian Contreras, estudiante de ingenieria en computacion",
@@ -19,7 +19,7 @@
     "navigation": {
       "header": [
         { "label": "Sobre mi", "url": "/#about" },
-        { "label": "Proyectos", "url": "/#proyectos" },
+        { "label": "Proyectos", "url": "/proyectos" },
         { "label": "Contacto", "url": "/#github" }
       ],
       "ctaButton": {

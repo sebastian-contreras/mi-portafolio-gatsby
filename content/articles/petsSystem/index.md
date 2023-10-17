@@ -56,7 +56,7 @@ keywords:
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto<a name="Sobre-el-proyecto"></a>
 
-El frontend de Pet System es una aplicación web desarrollada con Next.js 13, que utiliza el router de la librería para manejar las rutas de la página, NextAuth.js para implementar la autenticación de los usuarios y Bootstrap para el diseño de la interfaz. El objetivo de esta aplicación es facilitar la gestión de una clínica veterinaria, permitiendo registrar y consultar información sobre clientes, veterinarios, mascotas y citas.
+El frontend de Pet System es una aplicación web desarrollada con Next.js 13. El objetivo de esta aplicación es facilitar la gestión de una clínica veterinaria, permitiendo registrar y consultar información sobre clientes, veterinarios, mascotas y citas.
 
 La aplicación cuenta con diferentes tipos de usuarios, cada uno con un perfil propio y un nivel de acceso distinto. Los clientes pueden ver los turnos disponibles de los veterinarios, reservar citas para sus mascotas y acceder al perfil de cada una de ellas, donde se muestra una tabla con las citas pendientes y el historial clínico ordenado cronológicamente. Los veterinarios pueden ver los turnos que tienen asignados, acceder al perfil de las mascotas que atienden y entregar diagnósticos de sus citas. Los administradores pueden crear, editar y borrar todos los atributos del sistema, así como asignar credenciales a los veterinarios. Además, los administradores tienen un dashboard que muestra estadísticas sobre la clínica, como la cantidad de mascotas por tipo, por sexo, las ganancias mensuales, la cantidad de citas y el ranking de veterinarios. La aplicación también tiene una sección de clientes donde se puede filtrar la tabla por paginación o búsqueda.
 
